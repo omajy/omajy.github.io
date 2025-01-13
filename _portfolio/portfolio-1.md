@@ -1,6 +1,6 @@
 ---
 title: "C++ Maze Solver"
-excerpt: "Breadth First Searching Algorith Maze Solver<br/><img src='/images/mazeSolver.png'>"
+excerpt: "Breadth First Search Algorithm Maze Solver.<br/><img src='/images/mazeSolver.png'>"
 collection: portfolio
 ---
 
