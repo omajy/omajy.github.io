@@ -21,7 +21,7 @@ repository               : "omajy/omajy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/pfp.jpg"
+  avatar           : "pfp.jpg"
   name             : "Jameson Gormley"
   pronouns         : 
   bio              : "Bachelor of Computer Science (AI Major)
