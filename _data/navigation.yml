@@ -18,7 +18,7 @@ main:
     url: /portfolio/
 
   - title: "Resume"
-    url: /_data/Resume.pdf
+    url: /files/Resume.pdf
         
   - title: "Blog Posts"
     url: /year-archive/
