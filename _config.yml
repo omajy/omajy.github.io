@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jameson Gormley / Portfolio"
+title                    : "omajy / Portfolio"
 title_separator          : "-"
 name                     : &name "Jameson Gormley"
 description              : &description "Project Portfolio"
@@ -22,21 +22,22 @@ repository               : "omajy/omajy.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jameson | omajy"
-  pronouns         : "he/him"
-  bio              : "Bachelor of Computer Science | Diploma of Languages: Mandarin"
+  name             : "Jameson Gormley"
+  pronouns         : 
+  bio              : "Bachelor of Computer Science (AI Major)"
+  bio2             : "Diploma of Languages: Mandarin Studies"
   location         : "Adelaide, Australia"
   employer         : "University of Adelaide"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,21 +45,21 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "omajy"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          :  # Replace this with you Bluesky username
+  facebook         : 
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : 
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Jameson Gormley"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
