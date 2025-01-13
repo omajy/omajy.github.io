@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "omajy / Portfolio"
+title                    : "Jameson's Homepage"
 title_separator          : "-"
 name                     : &name "Jameson Gormley"
 description              : &description "Project Portfolio"
@@ -24,8 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Jameson Gormley"
   pronouns         : 
-  bio              : "Bachelor of Computer Science (AI Major)"
-  bio2             : "Diploma of Languages: Mandarin Studies"
+  bio              : "Bachelor of Computer Science (AI Major)
+                     
+                      Diploma of Languages: Mandarin Studies"
   location         : "Adelaide, Australia"
   employer         : "University of Adelaide"
   uri              : # URL
