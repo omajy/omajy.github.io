@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year computer science student at The University of Adelaide.
+My name is Jameson, and I'm a final year computer science student at The University of Adelaide majoring in AI. 
 
-I've recently experienced a growing interest in Machine Learning and Data Science, so I chose to swap my major to AI.
+I have a strong interest in Data Science and Machine Learning, and have been working on a number of projects to improve my technical skills and understanding of this challenging field. 
 
-In an ideal future, I would like to work interstate or overseas, and be able to use Mandarin as part of my profession.
+In the future I would like the opportunity to work internationally, leverging my Mandarin as part of my profession on a global scale. 
 
-Outside of this, I'm also interested in Quantum Computing and am interested to see what opportunities will open up in this field in the future.
+I'm also interested in Quantum Computing, and am interested to see what opportunities will open up in this field in the future.
 
 # What is omajy.github.io about?
-This website serves as a record for my experience as a CS student, a showcase of my personal project developments, and a waypoint for any academic updates I have to share.
+This website is a record of my experiences as a student and a showcase of my professional development. 
 
-So, stay tuned for more to come in 2025!
+Stay tuned for more to come in 2025!
